@@ -11,7 +11,7 @@ import java.util.*;
 /**
  * @author: liman
  * @Date: 2020/12/18 15:46
- * @Description: FreeMarker 数据类型
+ * @Description: FreeMarker 数据类型：Hash类型--Map操作
  */
 @WebServlet("/f08")
 public class FreeMarker08_Hash extends HttpServlet {

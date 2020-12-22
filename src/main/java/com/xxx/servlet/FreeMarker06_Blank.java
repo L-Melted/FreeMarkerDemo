@@ -10,7 +10,7 @@ import java.io.IOException;
 /**
  *  @author: liman
  *  @Date: 2020/12/18 15:46
- *  @Description: FreeMarker 数据类型
+ *  @Description: FreeMarker 数据类型：空值类型
  */
 @WebServlet("/f06")
 public class FreeMarker06_Blank extends HttpServlet {

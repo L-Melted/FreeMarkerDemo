@@ -11,7 +11,7 @@ import java.util.Date;
 /**
  *  @author: liman
  *  @Date: 2020/12/18 15:46
- *  @Description: FreeMarker 数据类型
+ *  @Description: FreeMarker 数据类型：日期类型
  */
 @WebServlet("/f03")
 public class FreeMarker03_Date extends HttpServlet {

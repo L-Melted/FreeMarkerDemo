@@ -14,7 +14,7 @@ import java.util.*;
 /**
  *  @author: liman
  *  @Date: 2020/12/18 15:46
- *  @Description: FreeMarker 数据类型
+ *  @Description: FreeMarker 数据类型：序列类型 （数组、List、Set）
  */
 @WebServlet("/f07")
 public class FreeMarker07_Sequence extends HttpServlet {
